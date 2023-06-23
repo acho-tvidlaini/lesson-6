@@ -1,0 +1,117 @@
+/* section 1 */
+
+.header{
+    width: 1336px;
+    height: 178px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+    margin-bottom: 48px;
+}
+.header-h3{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+.header-h2{
+   font-size: 54px;
+   font-family: 'Roboto', sans-serif;
+}
+.header-p{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.header-div-p{
+    width: 760px;
+    text-align: center;
+}
+/* section 2 */
+
+.section2{
+    width: 1336px;
+    height: 908px;
+    margin: 0 auto;
+    display: flex;
+    justify-content:space-between ;
+    flex-wrap: wrap;
+}
+.section2-div{
+    width: 310px;
+    height: 430px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.section2-h3{
+    font-size: 18px;
+    margin: 10px 5px;
+    font-family: 'Roboto', sans-serif;
+}
+.section-p1{
+    font-size: 14px;
+    margin: 10px 5px;
+}
+.social-icon{
+    display: flex;
+    margin-top: 24px;
+    padding-left: 15px;
+    width: 140px;
+    justify-content: space-between;
+}
+.icon{
+    width: 36px;
+    height: 36px;
+    background-color: #f2f4f7;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+}
+/* footer */
+
+.footer{
+     background-color: rgba(136, 135, 135, 0.719);
+    width: 1445px;
+    margin: auto;
+    height: 454px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+
+}
+.footer-div1{
+    width: 318px;
+    height: 221px;
+}
+.div2-li{
+    margin-top: 20px;
+}
+.div2-h2{
+    margin-bottom: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+.footer-div4{
+    width: 107px;
+    height: 127.45px;
+    margin-left: 147px;
+}
+.blue-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80px;
+    height: 45px;
+    margin-top: 58.45px;
+    background-color: #054a68;
+}
+.English{
+    font-weight: 400;
+    font-size: 15px;
+    color: #f2f4f7;
+}
+.div1-p{
+    margin-top: 40px;
+}
